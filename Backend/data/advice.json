@@ -1,0 +1,28 @@
+{
+  "leaf_blight": {
+    "pesticide": "Neem Oil Spray",
+    "soil": "Improve drainage",
+    "plan": [
+      "Day 1: Spray neem oil",
+      "Day 2: Monitor leaves",
+      "Day 3: Remove infected leaves",
+      "Day 4: Light watering",
+      "Day 5: Reapply spray",
+      "Day 6: Soil check",
+      "Day 7: Final inspection"
+    ]
+  },
+  "powdery_mildew": {
+    "pesticide": "Sulfur Spray",
+    "soil": "Reduce humidity",
+    "plan": [
+      "Day 1: Apply sulfur spray",
+      "Day 2: Remove infected areas",
+      "Day 3: Improve airflow",
+      "Day 4: Light watering",
+      "Day 5: Spray again",
+      "Day 6: Monitor leaves",
+      "Day 7: Final review"
+    ]
+  }
+}

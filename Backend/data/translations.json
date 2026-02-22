@@ -1,0 +1,32 @@
+{
+  "en": {
+    "welcomeBack": "WELCOME BACK",
+    "startDiagnosis": "Start Diagnosis",
+    "scanPrompt": "Scan your crop for pests & diseases",
+    "localCropAlerts": "Local Crop Alerts",
+    "viewPrecautions": "View Precautions →",
+    "proTip": "PRO TIP OF THE DAY",
+    "learnMore": "Learn More",
+    "manageYourFarm": "Manage Your Farm",
+    "treatmentHistory": "Treatment History",
+    "marketPrices": "Market Prices",
+    "wheatRustOutbreak": "Wheat Rust Outbreak",
+    "reportedInRadius": "Reported in 2km radius.",
+    "diagnosisFailed": "Diagnosis failed. Please try again."
+  },
+  "hi": {
+    "welcomeBack": "वापसी पर स्वागत है",
+    "startDiagnosis": "निदान शुरू करें",
+    "scanPrompt": "कीट और रोगों के लिए अपनी फ़सल स्कैन करें",
+    "localCropAlerts": "स्थानीय फसल अलर्ट",
+    "viewPrecautions": "रोकथाम देखें →",
+    "proTip": "दिन का प्रो टिप",
+    "learnMore": "और पढ़ें",
+    "manageYourFarm": "फसल प्रबंधित करें",
+    "treatmentHistory": "उपचार इतिहास",
+    "marketPrices": "बाज़ार मूल्य",
+    "wheatRustOutbreak": "गेहूं जंग का प्रकोप",
+    "reportedInRadius": "2 किमी त्रिज्या में रिपोर्ट किया गया।",
+    "diagnosisFailed": "निदान विफल। कृपया पुन: प्रयास करें।"
+  }
+}

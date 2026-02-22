@@ -1,0 +1,106 @@
+[
+  {
+    "id": "u1",
+    "name": "Ramesh Kumar",
+    "language": "hi",
+    "dialect": "bhojpuri",
+    "location": "Bihar"
+  },
+  {
+    "id": "u2",
+    "name": "Sita Devi",
+    "language": "en",
+    "dialect": "hindi",
+    "location": "UP"
+  },
+  {
+    "userId": "a9669db7-bdaa-477f-b065-040011dec49d",
+    "username": "ritesh",
+    "phone": "999999999999",
+    "profilePic": "1771450744916_0n8b7KH0.jpeg"
+  },
+  {
+    "userId": "35f7a325-5705-4ea5-8bc4-e231c8ab286e",
+    "username": "Ritesh",
+    "phone": "9912329432",
+    "profilePic": null
+  },
+  {
+    "userId": "95966f7c-f901-43db-b172-c1488ffa8f6f",
+    "username": "Ritesh",
+    "phone": "9912329438",
+    "profilePic": null
+  },
+  {
+    "userId": "e95f8597-1f95-4cef-ae16-c4a7a2c2869b",
+    "username": "name",
+    "phone": "1111111111",
+    "profilePic": null
+  },
+  {
+    "userId": "b006acc6-9928-4156-8657-7639aac1cb43",
+    "username": "re",
+    "phone": "2222222222",
+    "profilePic": null
+  },
+  {
+    "userId": "136ed6a8-983e-4fa3-8bf7-5b12a3dba8e7",
+    "username": "ritesh ",
+    "phone": "9915390993",
+    "profilePic": null
+  },
+  {
+    "userId": "fb2bb0ac-93e3-4e64-b027-f80caec6743b",
+    "username": "ritesh",
+    "phone": "1234567890",
+    "profilePic": null
+  },
+  {
+    "userId": "7f7a598c-36e8-4430-8749-1e34a720a151",
+    "username": "riteshku",
+    "phone": "1234567899",
+    "profilePic": null
+  },
+  {
+    "userId": "ea8d055f-f7ab-495a-85e5-a4a5abeac042",
+    "username": "riteshku",
+    "phone": "1234568888",
+    "profilePic": null
+  },
+  {
+    "userId": "8e2ce23c-8f04-4e3f-aa65-90aad72ae3d3",
+    "username": "harsh",
+    "phone": "7777777777",
+    "profilePic": null
+  },
+  {
+    "userId": "5d4f1154-1142-4bb0-a563-ca7939ec4aaa",
+    "username": "ritesh",
+    "phone": "99",
+    "profilePic": null
+  },
+  {
+    "userId": "647104da-d744-49dd-9fbd-c7fa06c4355c",
+    "username": "aryan",
+    "phone": "4444444444",
+    "profilePic": null
+  },
+  {
+    "userId": "6a8fd91d-ecbb-4ded-905f-d853c6ba743f",
+    "username": "guarang",
+    "phone": "3232323232",
+    "profilePic": null
+  },
+  {
+    "userId": "036a83f5-7072-48f6-b6d8-16d4c2fed560",
+    "username": "Mudgil",
+    "phone": "4343434343",
+    "profilePic": null
+  },
+  {
+    "userId": "ed50a3ea-d5bf-4b03-a93c-23565bc3fa72",
+    "username": "Ritesh",
+    "phone": "2131431423",
+    "profilePic": null
+  }
+]

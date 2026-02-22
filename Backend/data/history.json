@@ -1,0 +1,9 @@
+[
+  {
+    "userId": "u1",
+    "date": "2026-02-01T10:00:00Z",
+    "disease": "leaf_blight",
+    "image": "uploads/sample1.jpg",
+    "pesticide": "Neem Oil"
+  }
+]
